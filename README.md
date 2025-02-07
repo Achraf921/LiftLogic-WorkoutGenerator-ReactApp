@@ -2,6 +2,8 @@ LiftLogic
 
 LiftLogic is a React app designed to generate custom workout plans, track progress, and provide exercise guidance. With features like personalized routines, an exercise database, and progress tracking, LiftLogic empowers users to optimize their fitness journey. Perfect for individuals or groups aiming to lift smarter, not harder.
 
+Link : https://liftlogicbyachraf.netlify.app/#workout
+
 Key Features
 
 	•	Custom Workout Plans: Create personalized routines based on fitness level and goals.
